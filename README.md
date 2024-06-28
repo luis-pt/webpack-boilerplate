@@ -43,6 +43,13 @@ npm start
 
 &nbsp; 
 
+3. Build for Production:
+```bash
+npm run build
+```
+
+&nbsp; 
+
 4. Build the project for production:
 
 ```bash
